@@ -6,6 +6,8 @@ Bem-vindo ao **X-Men InfoXperience**!
 
 Explore o emocionante universo dos X-Men de maneira interativa e envolvente. Queremos que você conheça seus heróis mutantes favoritos como nunca antes!
 
+ **Acesse o projeto online:** [Clique aqui](https://gabrielcotrimmiron.github.io/x-men-szpc/)
+
 ## O que é o X-Men InfoXperience?
 
 O X-Men InfoXperience é um projeto web que traz os membros da equipe X-Men para a ponta dos seus dedos. Passe o mouse sobre a imagem de um personagem e você receberá uma breve descrição que conta um pouco mais sobre sua história, habilidades e papel na equipe.
